@@ -6,7 +6,8 @@
 
 ---
 
-<table>
+<div align="center">
+  <table>
 <!-- Portfolio -->
   <td valign="top">
     <p align="center">
@@ -104,3 +105,4 @@
     </p>
   </td>
 </table>
+</div>
